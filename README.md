@@ -1,4 +1,4 @@
-# Native-Messaging
+# Messaging_master
 Chrome's native messaging example project for Java.
 
 Project structure:
